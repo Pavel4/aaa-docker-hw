@@ -9,9 +9,9 @@ To start the project, run the command
 
 ### Clear and stop docker containers and images.
 To delete all images and containers, run the command
-``bash
+```bash
 ./clear_and_stop.sh
-`'
+```
 ### Check.
 Go to each url several times:
 ```bash
